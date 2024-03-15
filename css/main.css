@@ -8,16 +8,27 @@ header h1 {
     
 }
 
-.header {
-    background-image: url("pattern.jpg");
+#brushes h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+
 }
 
-
-/*
-header {
-    background-image: url('pattern.jpg');
+#frames h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
 }
-
-
-<img src="img/pattern.jpg" alt="pattern image with different colors"> 
-*/
+    
+#paint h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
