@@ -1,6 +1,5 @@
 header h1 {
-    font-family: Helvetica;
-    font-size: 100px;
+    font-family: "Roboto", sans-serif;    font-size: 100px;
     font-weight: bold;
     color: khaki;
     text-align: center;
@@ -9,8 +8,7 @@ header h1 {
 }
 
 #brushes h2{
-    font-family: Helvetica;
-    font-size: 32px;
+    font-family: "Roboto", sans-serif;    font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: mediumspringgreen;
@@ -18,17 +16,26 @@ header h1 {
 }
 
 #frames h2 {
-    font-family: Helvetica;
-    font-size: 32px;
+    font-family: "Roboto", sans-serif;    font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: lightcoral;
 }
     
 #paint h2 {
-    font-family: Helvetica;
-    font-size: 32px;
+    font-family: "Roboto", sans-serif;    font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: skyblue;
+}
+
+span {
+    font-family: "Roboto", sans-serif;    font-weight: bold;
+    color: blue;
+}
+
+footer {
+    font-family: "Roboto", sans-serif;    
+    font-size: 15px;
+    text-align: center;
 }
