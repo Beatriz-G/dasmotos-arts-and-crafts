@@ -12,7 +12,7 @@ header h1 {
     font-weight: bold;
     color: white;
     background-color: mediumspringgreen;
-
+    padding-left: 5%;
 }
 
 #frames h2 {
@@ -20,6 +20,7 @@ header h1 {
     font-weight: bold;
     color: white;
     background-color: lightcoral;
+    padding-left: 5%;
 }
     
 #paint h2 {
@@ -27,9 +28,14 @@ header h1 {
     font-weight: bold;
     color: white;
     background-color: skyblue;
+    padding-left: 5%;
 }
 
 span {
     font-family: "Roboto", sans-serif;    font-weight: bold;
     color: blue;
+}
+
+h3, img, p {
+    padding-left: 5%;
 }
