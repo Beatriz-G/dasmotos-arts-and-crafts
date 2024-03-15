@@ -4,11 +4,11 @@ header h1 {
     color: khaki;
     text-align: center;
     background-image: url("../img/pattern.jpg");
-    
 }
 
 #brushes h2{
-    font-family: "Roboto", sans-serif;    font-size: 32px;
+    font-family: "Roboto", sans-serif; 
+    font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: mediumspringgreen;
@@ -16,7 +16,8 @@ header h1 {
 }
 
 #frames h2 {
-    font-family: "Roboto", sans-serif;    font-size: 32px;
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: lightcoral;
@@ -24,7 +25,8 @@ header h1 {
 }
     
 #paint h2 {
-    font-family: "Roboto", sans-serif;    font-size: 32px;
+    font-family: "Roboto", sans-serif;    
+    font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: skyblue;
@@ -32,7 +34,8 @@ header h1 {
 }
 
 span {
-    font-family: "Roboto", sans-serif;    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
     color: blue;
 }
 
