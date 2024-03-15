@@ -1,0 +1,23 @@
+header h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("../img/pattern.jpg");
+    
+}
+
+.header {
+    background-image: url("pattern.jpg");
+}
+
+
+/*
+header {
+    background-image: url('pattern.jpg');
+}
+
+
+<img src="img/pattern.jpg" alt="pattern image with different colors"> 
+*/
