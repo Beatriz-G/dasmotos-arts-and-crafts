@@ -4,38 +4,41 @@ header h1 {
     color: khaki;
     text-align: center;
     background-image: url("../img/pattern.jpg");
-    
 }
 
 #brushes h2{
-    font-family: "Roboto", sans-serif;    font-size: 32px;
+    font-family: "Roboto", sans-serif;    
+    font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: mediumspringgreen;
-
+    padding-left: 5%;
 }
 
 #frames h2 {
-    font-family: "Roboto", sans-serif;    font-size: 32px;
+    font-family: "Roboto", sans-serif;    
+    font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: lightcoral;
+    padding-left: 5%;
 }
     
 #paint h2 {
-    font-family: "Roboto", sans-serif;    font-size: 32px;
+    font-family: "Roboto", sans-serif;    
+    font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: skyblue;
+    padding-left: 5%;
 }
 
 span {
-    font-family: "Roboto", sans-serif;    font-weight: bold;
+    font-family: "Roboto", sans-serif;    
+    font-weight: bold;
     color: blue;
 }
 
-footer {
-    font-family: "Roboto", sans-serif;    
-    font-size: 15px;
-    text-align: center;
+h3, img, p {
+    padding-left: 5%;
 }
